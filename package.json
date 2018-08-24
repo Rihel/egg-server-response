@@ -50,7 +50,7 @@
   "bugs": {
     "url": "https://github.com/rihel/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-server-response#readme",
+  "homepage": "https://github.com/rihel/egg-server-response#readme",
   "author": "rihel",
   "license": "MIT"
 }
