@@ -24,7 +24,7 @@ export class ServerResponse < T > {
     for (const key in this) {
       if (this.hasOwnProperty(key)) {
         const val = this[key];
-        if (!val) {
+        if (!val && key !=='success') {
           delete this[key]
         }
       }
