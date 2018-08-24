@@ -1,6 +1,6 @@
 {
   "name": "egg-server-response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "resefulapi 响应对象",
   "eggPlugin": {
     "name": "serverResponse"
